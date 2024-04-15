@@ -32,8 +32,11 @@ body{
     margin: 0 6px;
     padding: 7px 15px;
     border-radius: 20px;
+    
 }
-
+a{
+    target="_blank";
+}
 .secao{ 
     width: 100%;
     max-width: 1024px;
