@@ -34,9 +34,7 @@ body{
     border-radius: 20px;
     
 }
-a{
-    target="_blank";
-}
+
 .secao{ 
     width: 100%;
     max-width: 1024px;
